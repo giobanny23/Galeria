@@ -1,0 +1,24 @@
+body
+{
+	background: #212121;
+}
+h2
+{
+	text-align: center;
+	color:#ddd;
+	font-family:Arial;		
+}
+#grande
+{
+	width: 400px;
+	margin:0 auto;
+	display: block;
+
+}
+img{
+	padding: 5px;
+	border-radius:20px; 
+}
+#grande img{
+	width: 400px;
+}
